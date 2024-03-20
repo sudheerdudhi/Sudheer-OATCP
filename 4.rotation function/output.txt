@@ -1,0 +1,3 @@
+output = 26
+output = Invalid size of the array.
+output = 333
